@@ -1,4 +1,4 @@
-# Bash Password Generator
+# Password Generator
 
 This Bash script is a simple password generator that allows you to generate a 16-character password with user-specified character types and save it to a file on your system. It provides a convenient way to create strong and customized passwords for various purposes.
 
